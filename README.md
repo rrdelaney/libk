@@ -1,6 +1,6 @@
 # libK [![Build Status](https://travis-ci.org/rrdelaney/libk.svg?branch=master)](https://travis-ci.org/rrdelaney/libk)
 
-Exports several Koa middlewares for use
+Exports several Koa@next middlewares for use
 
 * __bodyParser__: [KBODY](https://github.com/rrdelaney/KBODY)
 * __CORS__: [KORS](https://github.com/rrdelaney/KORS)
