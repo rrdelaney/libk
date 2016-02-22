@@ -3,13 +3,13 @@
 Exports several Koa@next middlewares for use
 
 * __bodyParser__: [KBODY](https://github.com/rrdelaney/KBODY)
-* __CORS__: [KORS](https://github.com/rrdelaney/KORS)
+* __cors__: [KORS](https://github.com/rrdelaney/KORS)
 * __route__: [KRO](https://github.com/rrdelaney/KRO)
 * __useState__: [KSET](https://github.com/rrdelaney/KSET)
 
 ```js
 import Koa from 'koa'
-import { bodyParser, CORS, route, useState } from 'libk'
+import { bodyParser, cors, route, useState } from 'libk'
 
 const app = new Koa()
 
