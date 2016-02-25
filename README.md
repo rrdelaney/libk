@@ -8,6 +8,7 @@ Exports several Koa@next middlewares for use
 * __useState__: [KSET](https://github.com/rrdelaney/KSET)
 * __ping__: [KPING](https://github.com/rrdelaney/KPING)
 * __proxy__: [KPROXY](https://github.com/rrdelaney/KPROXY)
+* __statik__: [KSTATIC](https://github.com/rrdelaney/KSTATIC)
 
 ```js
 import Koa from 'koa'

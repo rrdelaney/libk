@@ -1,6 +1,6 @@
 {
   "name": "libk",
-  "version": "1.2.0",
+  "version": "1.3.0",
   "description": "Middleware for Koa@next",
   "main": "index.js",
   "scripts": {
@@ -34,6 +34,7 @@
     "kping": "^1.0.0",
     "kproxy": "^1.0.0",
     "kro": "^1.1.0",
-    "kset": "^1.0.0"
+    "kset": "^1.0.0",
+    "kstatic": "^1.0.0"
   }
 }
