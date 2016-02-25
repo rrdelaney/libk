@@ -6,10 +6,12 @@ Exports several Koa@next middlewares for use
 * __cors__: [KORS](https://github.com/rrdelaney/KORS)
 * __route__: [KRO](https://github.com/rrdelaney/KRO)
 * __useState__: [KSET](https://github.com/rrdelaney/KSET)
+* __ping__: [KPING](https://github.com/rrdelaney/KPING)
+* __proxy__: [KPROXY](https://github.com/rrdelaney/KPROXY)
 
 ```js
 import Koa from 'koa'
-import { bodyParser, cors, route, useState } from 'libk'
+import { bodyParser, cors, route, useState, ping, proxy } from 'libk'
 
 const app = new Koa()
 
