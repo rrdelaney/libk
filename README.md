@@ -12,7 +12,7 @@ Exports several Koa@next middlewares for use
 
 ```js
 import Koa from 'koa'
-import { bodyParser, cors, route, useState, ping, proxy } from 'libk'
+import { bodyParser, cors, route, useState, ping, proxy, statik } from 'libk'
 
 const app = new Koa()
 
