@@ -1,4 +1,4 @@
-# libK [![Build Status](https://travis-ci.org/rrdelaney/libk.svg?branch=master)](https://travis-ci.org/rrdelaney/libk)
+# libK
 
 Exports several Koa@next middlewares for use
 

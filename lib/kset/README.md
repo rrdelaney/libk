@@ -1,4 +1,4 @@
-# KSET [![Build Status](https://travis-ci.org/rrdelaney/KSET.svg?branch=master)](https://travis-ci.org/rrdelaney/KSET)
+# KSET
 
 Simple state settings for Koa@2
 

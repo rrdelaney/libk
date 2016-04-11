@@ -1,4 +1,4 @@
-# KRO [![Build Status](https://travis-ci.org/rrdelaney/KRO.svg?branch=master)](https://travis-ci.org/rrdelaney/KRO)
+# KRO 
 Simple routing for Koa@next
 
 ```js

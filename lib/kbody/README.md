@@ -1,4 +1,4 @@
-# KBODY [![Build Status](https://travis-ci.org/rrdelaney/KBODY.svg?branch=master)](https://travis-ci.org/rrdelaney/KBODY)
+# KBODY 
 
 Simple body parsing for Koa@next
 

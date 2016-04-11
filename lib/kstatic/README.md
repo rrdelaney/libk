@@ -1,4 +1,4 @@
-# KSTATIC [![Build Status](https://travis-ci.org/rrdelaney/KSTATIC.svg?branch=master)](https://travis-ci.org/rrdelaney/KSTATIC)
+# KSTATIC 
 
 Simple static directory serving for Koa@next
 

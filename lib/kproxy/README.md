@@ -1,4 +1,4 @@
-# KPROXY [![Build Status](https://travis-ci.org/rrdelaney/KPROXY.svg?branch=master)](https://travis-ci.org/rrdelaney/KPROXY)
+# KPROXY 
 
 Simple proxy for Koa@next.
 Defers actual proxying to [node-http-proxy](https://github.com/nodejitsu/node-http-proxy)

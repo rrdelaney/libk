@@ -1,4 +1,4 @@
-# KPING [![Build Status](https://travis-ci.org/rrdelaney/KPING.svg?branch=master)](https://travis-ci.org/rrdelaney/KPING)
+# KPING 
 
 Simple endpoint testing for Koa@next
 

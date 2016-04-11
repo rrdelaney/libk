@@ -1,4 +1,4 @@
-# KORS [![Build Status](https://travis-ci.org/rrdelaney/KORS.svg?branch=master)](https://travis-ci.org/rrdelaney/KORS)
+# KORS 
 
 Simple CORS for Koa@2
 
