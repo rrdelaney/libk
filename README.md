@@ -2,13 +2,13 @@
 
 Exports several Koa@next middlewares for use
 
-* __bodyParser__: [KBODY](https://github.com/rrdelaney/KBODY)
-* __cors__: [KORS](https://github.com/rrdelaney/KORS)
-* __route__: [KRO](https://github.com/rrdelaney/KRO)
-* __useState__: [KSET](https://github.com/rrdelaney/KSET)
-* __ping__: [KPING](https://github.com/rrdelaney/KPING)
-* __proxy__: [KPROXY](https://github.com/rrdelaney/KPROXY)
-* __statik__: [KSTATIC](https://github.com/rrdelaney/KSTATIC)
+* __bodyParser__: [KBODY](https://github.com/rrdelaney/libk/tree/master/lib/kbody)
+* __cors__: [KORS](https://github.com/rrdelaney/libk/tree/master/lib/kors)
+* __route__: [KRO](https://github.com/rrdelaney/libk/tree/master/lib/kro)
+* __useState__: [KSET](https://github.com/rrdelaney/libk/tree/master/lib/kset)
+* __ping__: [KPING](https://github.com/rrdelaney/libk/tree/master/lib/kping)
+* __proxy__: [KPROXY](https://github.com/rrdelaney/libk/tree/master/lib/kproxy)
+* __statik__: [KSTATIC](https://github.com/rrdelaney/libk/tree/master/lib/kstatic)
 
 ```js
 import Koa from 'koa'
