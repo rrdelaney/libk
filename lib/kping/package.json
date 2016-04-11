@@ -1,0 +1,35 @@
+{
+  "name": "kping",
+  "version": "1.0.0",
+  "description": "Simple test setting for Koa",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard | snazzy && ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rrdelaney/kping.git"
+  },
+  "keywords": [
+    "koa"
+  ],
+  "author": "Ryan Delaney <rrdelaney@outlook.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rrdelaney/kping/issues"
+  },
+  "homepage": "https://github.com/rrdelaney/kping#readme",
+  "devDependencies": {
+    "ava": "^0.12.0",
+    "koa": "^2.0.0-alpha.3",
+    "snazzy": "^3.0.0",
+    "standard": "^5.4.1",
+    "supertest": "^1.2.0",
+    "supertest-as-promised": "^3.0.0"
+  },
+  "standard": {
+    "ignore": [
+      "test.js"
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "name": "kstatic",
+  "version": "1.0.2",
+  "description": "Simple static serving for Koa@next",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "ava": "^0.12.0",
+    "koa": "^2.0.0-alpha.3",
+    "snazzy": "^3.0.0",
+    "standard": "^6.0.7",
+    "supertest": "^1.2.0",
+    "supertest-as-promised": "^3.0.0"
+  },
+  "scripts": {
+    "test": "standard | snazzy && ava"
+  },
+  "author": "Ryan Delaney <rrdelaney@outlook.com>",
+  "license": "MIT",
+  "standard": {
+    "ignore": [
+      "test.js"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rrdelaney/kstatic.git"
+  }
+}
